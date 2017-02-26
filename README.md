@@ -1,1 +1,1 @@
-# VizualneSystemy
+# Zadanie k predmetu vyzualne systemy.
